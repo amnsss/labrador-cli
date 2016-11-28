@@ -1,5 +1,5 @@
 {
-  "name": "labrador-cli",
+  "name": "@qnpm/ywx-cli",
   "version": "0.6.7",
   "description": "拉布拉多命令工具，微信小程序组件化开发框架",
   "keywords": [
